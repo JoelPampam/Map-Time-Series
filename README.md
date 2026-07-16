@@ -296,10 +296,3 @@ Possible extensions include:
 
 ---
 
-## Author
-
-**University of Texas at Arlington**
-
-Computer Engineering Research Project
-
-**Historical Map Verification using Shapelet-Based Time Series Classification**
